@@ -1,0 +1,5 @@
+Mi primer Archivo de texto creado con Python.
+Lizeth Mayumi Hernandez Luciano.
+Version 1 del Archivo
+Version 2 de mi archivo txt.
+Python facilita la manipulacion de archivos de texto.
